@@ -4,5 +4,5 @@ ECON 326 Final Project (R):The Effect of Pricing on Consumers’ Ratings: Insigh
 
 ECON 398 Final Project (R): The Impact of Immigration Age on Wages: Insights from 2021 Canadian Census
 
-ECON 499 Final Project (Python and Stata): Impact of One-child Policy on Housing Bubbles (working paper, see ECON 495 proposal)
+ECON 499 Final Project (Excel, Python and Stata): Impact of One-child Policy on Housing Bubbles (working paper, see ECON 495 proposal)
 
